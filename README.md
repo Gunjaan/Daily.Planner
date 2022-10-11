@@ -1,3 +1,9 @@
+DAILY PLANNER
+
+<img width="1221" src="https://user-images.githubusercontent.com/74871887/191908878-dae6c66f-0350-47cf-b5c6-58fa4e914491.png">
+<img width="1210" src="https://user-images.githubusercontent.com/74871887/191908788-a93c4df6-229e-4bf1-b52c-b75cbabc0acc.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
